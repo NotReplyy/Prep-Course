@@ -1,0 +1,7 @@
+variables: almacenamos valores que luego se puede utilizar en codigo q vayamos a escribir
+string: son cadenas de texto se escriben entre comillas
+Funciones: se utiliza para crear variables y reutilizarlas dentro de la misma Funciones
+argumentos: es una expresion que contiene cero o mas variables
+return: se escribe para que nos devuelva un valor cuando sea llamada
+declaracion if: es para poner una condicion en la cual si se cumple algunos de los requisitos q imponemos nos devuelva un valor
+valores Booleanos: se usa para ver si algo es verdadero o falso
