@@ -1,2 +1,0 @@
-for crea un bucle en la cual dentro de los parentesis le tenemos q brindas 3 cosas lo primero es declarar la variable segundo una expresion para ser evaluada si es verdadera se ejecuta y por ultimo una expresion que se use para incrementar la variable o actualizarla
-&&, || y ! son  operadores logicos && significa y devolvera verdadero si ambas son true, si uno de ellos o ambos son falsas devuelve false. || significa O si una o ambas expresiones son true devuelve true y false si ambas lo son. ! significa not (no) devuelve lo opuesto de lo que pasa
