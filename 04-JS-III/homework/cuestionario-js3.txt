@@ -1,0 +1,1 @@
+arrays: permite almacenar un conjunto de elementos bajo un solo nombre de variable 
