@@ -1,0 +1,2 @@
+prototype: es un mecanismo en el cual los objetos heredan caracteristicas entre si.
+_Constructors_:es un metodo especial para crear un objeto dentro de una clase
